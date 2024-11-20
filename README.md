@@ -46,5 +46,5 @@ Terraform Apply
 
 ![image](https://github.com/user-attachments/assets/532f9977-705d-41b5-8c36-b6ce5f38258b)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a7b7113c-7f1d-4920-9933-ec895824961d)
 
