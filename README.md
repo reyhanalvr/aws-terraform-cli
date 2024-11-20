@@ -40,3 +40,11 @@ Terraform plan
 Terraform apply
 Terraform destroy
 ```
+
+Terraform Apply
+![image](https://github.com/user-attachments/assets/cd3656f0-e9e9-476e-98e6-e49d9f1a43e6)
+
+![image](https://github.com/user-attachments/assets/532f9977-705d-41b5-8c36-b6ce5f38258b)
+
+![Uploading image.png…]()
+
